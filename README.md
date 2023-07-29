@@ -1,0 +1,2 @@
+# YeekaNeovim
+My neovim configurations.
